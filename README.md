@@ -1,2 +1,2 @@
 # expanding-cards
-Canandian cities on expanding cards using HTML, CSS and Javascript
+Canandian cities expanding cards using HTML, CSS and Javascript
